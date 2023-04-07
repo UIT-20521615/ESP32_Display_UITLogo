@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/CMakeFiles/bootloader
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/CMakeFiles/bootloader.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/CMakeFiles/bootloader-complete.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/UniDocuments/WirelessEmbeddedSystem/ThucHanh/LAB02/Lab2_Logo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
